@@ -126,8 +126,9 @@ Python · Pandas · Scikit-learn · LightGBM · SHAP · Matplotlib · Statsmodel
 ## Project Team
 
 ASU FSE 570 — Fall 2025  
-Lahiru Gunasekara · Dante Iannello · Meghana Kankanala · Saisrinivas Mamunuru · 
-**Tarun Sai Marisetti** *(classification modeling)*
+**Tarun Sai Marisetti** *(classification modeling)* ·
+Lahiru Gunasekara · Dante Iannello · Meghana Kankanala · Saisrinivas Mamunuru 
+
 
 ---
 
